@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4359b88-7984-4b04-a705-466956785677" name="Default Changelist" comment="" />
+    <list default="true" id="a4359b88-7984-4b04-a705-466956785677" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utest/tasks/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utest/tasks/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26_screenshots.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -21,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/utest/tasks/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+            <state relative-caret-position="170">
+              <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#228#229#0" expanded="true" />
@@ -59,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/utest/userinterfaces/UTestLoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+            <state relative-caret-position="191">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,6 +85,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -86,8 +97,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/utest/userinterfaces/UtestPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/utest/tasks/OpenUp.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/utest/stepdefinitions/UtestStepDefinitions.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/utest/tasks/Login.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/utest/userinterfaces/UTestLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/utest/tasks/Login.java" />
       </list>
     </option>
   </component>
@@ -96,6 +107,7 @@
     <option name="width" value="977" />
     <option name="height" value="1028" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -223,7 +235,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1665789565567" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1665794278717" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -282,12 +294,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunnerTags - 2022.10.14 at 14h 28m 47s.xml">
-      <configuration name="RunnerTags" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunnerTags - 2022.10.14 at 15h 09m 19s.xml">
-      <configuration name="RunnerTags" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunnerTags - 2022.10.14 at 17h 50m 53s.xml">
       <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
@@ -307,6 +313,15 @@
       <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RunnerTags - 2022.10.14 at 18h 04m 52s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2022.10.14 at 19h 20m 26s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2022.10.14 at 19h 33m 14s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerTags - 2022.10.14 at 19h 36m 24s.xml">
       <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -393,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/utest/userinterfaces/UTestLoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+        <state relative-caret-position="191">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -423,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/utest/tasks/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        <state relative-caret-position="170">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#228#229#0" expanded="true" />
