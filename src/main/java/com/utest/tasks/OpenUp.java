@@ -13,7 +13,7 @@ public class OpenUp implements Task {
     }
 
     @Override
-    //Este merodo ejecutara todas las acciones de la pagina, clics, ingresos, selecciones, etc
+    //Este metodo ejecutara todas las acciones de la pagina, clics, ingresos, selecciones, etc
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(Open.browserOn(uTestPage));
     }
